@@ -1,0 +1,21 @@
+{
+    "name": "GeteachEarthSnippets",
+    "displayName": "Ge Earth Snippet",
+    "description": "Geteach Earth HTML Snippets",
+    "version": "1.0.0",
+    "publisher": "Josh Williams",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
