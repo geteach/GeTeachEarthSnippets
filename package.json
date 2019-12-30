@@ -1,15 +1,20 @@
 {
-    "name": "GeteachEarthSnippets",
-    "displayName": "Ge Earth Snippet",
+    "name": "earthhtml",
+    "displayName": "Ge HTML Snippets",
     "description": "Geteach Earth HTML Snippets",
     "version": "1.0.0",
     "publisher": "Josh Williams",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/geteach/GeTeachEarthSnippets"
+	},
     "engines": {
         "vscode": "^1.20.0"
     },
     "categories": [
         "Snippets"
     ],
+    "icon": "icon.png",
     "contributes": {
         "snippets": [
             {
