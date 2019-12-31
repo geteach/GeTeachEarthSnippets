@@ -1,4 +1,4 @@
-_My first vs code exention_
+_My first vs code extension_
 
 # Geteach GE Snippets
 
