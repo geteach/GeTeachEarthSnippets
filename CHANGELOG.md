@@ -4,6 +4,10 @@ All notable changes to the "ge" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.3]
+
+- Fixed Spelling Error in Snippet Answer and Question Template
+
 ## [1.0.2]
 
 - Fixed Snippet Answer Template
